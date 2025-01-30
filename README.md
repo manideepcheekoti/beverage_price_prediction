@@ -1,6 +1,5 @@
 # Beverage Price Prediction: Data-Driven Pricing Strategy for Energy Drinks
 
-![Beverage Price Prediction](https://your-image-link.com)
 
 🚀 **Predict the optimal price range for energy drinks based on consumer behavior, demographics, and preferences!** This project helps businesses make data-driven pricing decisions using machine learning.
 
